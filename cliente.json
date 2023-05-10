@@ -1,0 +1,11 @@
+{
+    "nome": "Rebeca",
+    "email": "becapeansa@gmail.com",
+    "telefone": [988477018, 11922334453],
+    "endereco": {
+      "rua": "R. Orestes Fabiano Alves",
+      "numero": 215,
+      "apartamento": false,
+      "complemento": "Próximo à Av. Pedro Henrique Krambeck"
+    }
+  }

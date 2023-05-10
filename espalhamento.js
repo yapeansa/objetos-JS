@@ -2,7 +2,7 @@ const cliente = {
     nome: 'Yago',
     idade: 29,
     email: 'yapeansa@gmail.com',
-    telefone: [988198962, 988477018],
+    telefone: [988198962, 988477018]
 }
 
 cliente.enderecos = [{
